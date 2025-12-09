@@ -4,7 +4,7 @@
 
 ## 📋 Información del Proyecto
 
-- **Título**: Conversor SIMELA - Sistema Métrico Legal Argentino (Herramienta educativa)
+- **Título**: LISTA TO DO
 - **Tipo**: Aplicación web sin frameworks
 - **Autor**: Juan Lucas Damus Jambrina
 - **Materia**: Taller de Programación 1
